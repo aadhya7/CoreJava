@@ -12,11 +12,11 @@ public class PrimeNumber {
     int i=15;
         if(i%2==1)
         {
-            System.out.println("Prime no" + i);
+            System.out.println("Given number is a Prime no" + i);
         }
         else
         {
-            System.out.println("not Prime" + i);
+            System.out.println("Given number is not Prime" + i);
         }
     }
 }
