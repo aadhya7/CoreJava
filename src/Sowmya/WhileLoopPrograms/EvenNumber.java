@@ -1,5 +1,4 @@
-package Sowmya.ForLoopPrograms;
-
+package Sowmya.WhileLoopPrograms;
 //for: Write a program to print the even number from 1 to 30
 
 /*
@@ -16,9 +15,11 @@ Solution:
 public class EvenNumber {
 
     public static void main(String[] args) {
-        for( int i =2 ; i<=30 ; i= i+2)
+        int i=2;
+        while(i<=30)
         {
             System.out.println(i);
+            i=i+2;
         }
     }
 }
