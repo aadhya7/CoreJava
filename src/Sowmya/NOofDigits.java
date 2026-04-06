@@ -10,7 +10,6 @@ Solution:
 %- gives Reminder
 /-gives quotient
  */
-
 public class NOofDigits {
     public static void main(String[] args) {
         int num=145786476; ////number
